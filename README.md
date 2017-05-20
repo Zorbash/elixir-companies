@@ -116,6 +116,7 @@ We specialize in Ruby on Rails, Ember, Elixir, Phoenix and mobile. We offer cons
 + [RevZilla Motorsports](https://revzilla.com) ([GitHub](https://github.com/revzilla/)) - Philadelphia-based retailer bent on enhancing the experience of the Motorcycle Enthusiast. Home-grown Elixir ecom system in production.
 + [The book of everyone](https://thebookofeveryone.com) ([Github](https://github.com/thebookofeveryone)) - Personalised books and unique gifts for your loved ones, made by our talented team of creatives. Barcelona, Catalunya, Spain.
 + [The RealReal](https://www.therealreal.com) ([GitHub](https://github.com/TheRealReal)) - Marketplace for luxury fashion resale products.
++ [Quiqup](https://quiqup.com) ([Github](https://github.com/QuiqUpLTD)) - Quiqup is a London-based startup offering on-demand, short distance logistic solutions. The data bus and core message broker are written in Elixir.
 
 #### Education
 * [Albert](https://www.albert.io/) ([Github](https://github.com/albert-io)) - Learn anything through interactive practice: College math and science, Advanced Placement®, SAT®, ACT®, GRE®, GMAT®, literature, social science, history, and more. Our API services are built with Elixir, Phoenix, and PostgreSQL. Chicago, Illinois.
